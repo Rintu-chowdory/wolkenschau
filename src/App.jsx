@@ -92,8 +92,8 @@ export default function App() {
         <div className="brand">
           <span className="brand-icon">◈</span>
           <div>
-            <h1 className="brand-name">Skycast</h1>
-            <p className="brand-sub">Weather dashboard</p>
+            <h1 className="brand-name">Wolkenschau</h1>
+            <p className="brand-sub">Das Wetter im Blick</p>
           </div>
         </div>
         <a
